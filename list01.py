@@ -1,6 +1,6 @@
 """
 Programa de Jokenpô utilizando tratamento de dados 
-com try_except, listas, bibiolteca random e funções
+com try_except, listas, biblioteca random e funções
 Retornando a jogada do player e da máquina
 ao final mostra o placar de vitórias da máquina, do player e de empates
 """
